@@ -4,3 +4,9 @@
 
 
 телеграм бот @tmx_metro_bot
+
+
+отчищенный датасет https://disk.yandex.ru/d/jqN4zdavIN9C0w
+
+
+ссылка на приложение (apk) https://disk.yandex.ru/d/LBPCgSM_s2VRzQ
